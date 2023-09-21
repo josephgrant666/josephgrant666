@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @josephgrant666
+- 👀 I’m interested in automating tasks to optimise processes as much as possible. My roadmap is focused on working towards being a backend python developer.
+- 🌱 I’m currently learning HTML/CSS language and use.
+- 💞️ I’m looking to collaborate on HTML/CSS projects.
+- 📫 How to reach me: josephgrant666@gmail.com
