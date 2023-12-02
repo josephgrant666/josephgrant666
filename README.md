@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning SQL Databases.
 - 💞️ I’m looking to grow my skillset by learning about databases.
 - 📫 How to reach me: www.linkedin.com/in/joe-grant-1a3900153
-- Check out my website! www.joegrant.online
-- The roadmap that I'm following on my journey: https://roadmap.sh/backend 
+- 🌐 Check out my website! www.joegrant.online
+- 🛣️ The roadmap that I'm following on my journey: https://roadmap.sh/backend 
