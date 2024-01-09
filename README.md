@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @josephgrant666
 - 👀 I’m interested in automating tasks to optimise processes as much as possible. My roadmap is focused on working towards being a backend python developer.
-- 🌱 I’m currently learning SQL Databases.
-- 💞️ I’m looking to grow my skillset by learning about databases.
+- 🌱 I’m currently learning how to create GUIs for my different python apps that I have built.
+- 💞️ I’m looking to grow my skillset by learning about APIs and QT for python.
 - 📫 How to reach me: www.linkedin.com/in/joe-grant-1a3900153
 - 🌐 Check out my website! www.joegrant.online
 - 🛣️ The roadmap that I'm following on my journey: https://roadmap.sh/backend 
